@@ -13,7 +13,7 @@ public class Cat extends Animal {
 	public static void main(String[] args) {
 		Cat myCat = new Cat();
 		
-		myCat.testClassMethod(); 		// hiding
+		myCat.testClassMethod(); 		// hiding  
 		myCat.testInstanceMethod();  	// overriding
 		System.out.println(myCat.name);	// hiding
 		
