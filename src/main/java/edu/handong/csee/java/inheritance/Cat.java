@@ -6,7 +6,7 @@ public class Cat extends Animal {
 	
 	public static void testClassMethod() {
 		System.out.println("The static method in Cat");
-	}
+	}  
 	public void testInstanceMethod() {
 		System.out.println("The test method in Cat");
 	}
