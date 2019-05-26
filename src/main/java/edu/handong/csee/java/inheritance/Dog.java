@@ -8,5 +8,5 @@ public class Dog extends Animal {
 		//super.testInstanceMethod();  
 		System.out.println("testInstamnceMethod in Dog");
 	}
-
+  
 }
