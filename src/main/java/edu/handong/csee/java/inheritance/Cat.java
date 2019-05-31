@@ -22,6 +22,6 @@ public class Cat extends Animal {
 		Animal dog = myDog;				// polymorphism   
 		dog.testClassMethod();			// hiding
 		dog.testInstanceMethod();		// overriding  
-		System.out.println(dog.name);	// hiding 
+		System.out.println(dog.name);	// hiding  
 	}
 }
