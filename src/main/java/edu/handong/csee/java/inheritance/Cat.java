@@ -2,7 +2,7 @@ package edu.handong.csee.java.inheritance;
 
 public class Cat extends Animal {
 	
-	String name = "Cat";  
+	String name = "Cat";    
 	
 	public static void testClassMethod() {
 		System.out.println("The static method in Cat");
